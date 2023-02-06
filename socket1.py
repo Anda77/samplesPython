@@ -7,7 +7,9 @@ def scan(ip, port):
         print("port opened " + str(port))
         sock.close()
     except:
-        print("port closed " + str(port))
+        print("port closed: " + str(port))
 
 
-scan("89.42.221.60", 80)
+#scan("89.42.221.60", 80)
+
+scan("http://www1.pythonprograming.net/", 80)
