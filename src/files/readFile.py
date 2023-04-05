@@ -1,4 +1,4 @@
-text = open('resources/input.txt')
+text = open('C:\\PythonPrj\\resources\\input.txt')
 
 print(text.read())
 print(text.read())
