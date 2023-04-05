@@ -1,5 +1,5 @@
 from builtins import print
 
-import utility
+from src.mat import utility
 
 print(utility.divide(10, 5))
