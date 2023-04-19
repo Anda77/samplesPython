@@ -15,6 +15,8 @@ def say_hallo():
     print("say hello")
 
 
+say_hallo()
+
 print(MyClass.__dict__)
 
 try:

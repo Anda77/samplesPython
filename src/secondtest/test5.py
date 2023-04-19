@@ -8,4 +8,3 @@ for i in sorted(dictionary.keys()):
     k = dictionary[i]
     # Insert your code here.
     print(k[0])
- 
